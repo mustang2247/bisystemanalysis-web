@@ -1,4 +1,4 @@
-package com.bitop.web.bisystemanalysisweb.model.controller;
+package com.bitop.web.bisystemanalysisweb.model.logic.controller;
 
 import com.bitop.web.bisystemanalysisweb.utils.IPAddressUtil;
 import org.springframework.web.bind.annotation.*;

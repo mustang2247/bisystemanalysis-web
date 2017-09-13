@@ -1,4 +1,4 @@
-package com.bitop.web.bisystemanalysisweb.model.user;
+package com.bitop.web.bisystemanalysisweb.model.logic.user;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

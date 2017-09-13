@@ -1,4 +1,4 @@
-package com.bitop.web.bisystemanalysisweb.model.user;
+package com.bitop.web.bisystemanalysisweb.model.logic.user;
 
 import com.alibaba.fastjson.JSONObject;
 import org.slf4j.Logger;
